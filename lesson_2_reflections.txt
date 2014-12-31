@@ -15,3 +15,7 @@ within your code.
  
  How do the diagrams help you visualize the branch structure?
  The diagrams provide a clear structure of how commits are tracked.
+ 
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ The result of merging two branches is one working set of parameters for all members. They are represented
+ that way to show a chronological history.
