@@ -13,3 +13,5 @@ within your code.
  Branches would be helpful if you had to suddenly stop working on your existing project to work on something more urgent. Branches
  will help you keep track of your current work place. 
  
+ How do the diagrams help you visualize the branch structure?
+ The diagrams provide a clear structure of how commits are tracked.
