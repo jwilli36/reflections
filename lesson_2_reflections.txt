@@ -6,4 +6,5 @@ within your code.
  How is the staging area different from the working directory and the repository? What value do you think it offers?
  I believe the staging area allows you the opportunity to change your mind about the files you want to place into the repository
  
- 
+ How can you use the staging area to make sure you have one commit per logical change?
+ You can use the staging area by using get add on each file one at a time before actually committing a file.
