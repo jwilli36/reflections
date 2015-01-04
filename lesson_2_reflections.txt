@@ -19,3 +19,10 @@ within your code.
  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
  The result of merging two branches is one working set of parameters for all members. They are represented
  that way to show a chronological history.
+ 
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ 
+ The Pros of automatic merging is that you will not forget to merge commits when you get to a certain amount of changes.
+ The cons to automatic merging is that you would have less control over when to merge and when  not be merge. The Pros to 
+always doing mrges manually is that you have complete control. The cons to always doing merges manually is that there are
+a lot of steps and you have to know what order which steps should be followed. 
