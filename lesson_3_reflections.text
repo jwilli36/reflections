@@ -6,3 +6,11 @@ task
  You may want to pull changes manually because you will be have control of when the changes are pulled. If they are automatically pulled,
 you run the risk of them being pulled when you are not ready for that to happen.
 
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A clone is a copy of a repository and is used to 
+
+A fork is a copied repository on your gitHub account it is not on your local machine. A clone is a copy of the repository of 
+which you have 2 copies(1 on your gitHub account and 1 on your personal machine. By having the clone you can begin to contribute
+to the project but will have to push the updates to the github account. A branch is used to keep lines of development separate
+and is used to enhance projects that are already working or in use. A branch allows you to work on that development to test it 
+while keeping the current code untouched.
