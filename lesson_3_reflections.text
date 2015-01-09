@@ -14,3 +14,8 @@ which you have 2 copies(1 on your gitHub account and 1 on your personal machine.
 to the project but will have to push the updates to the github account. A branch is used to keep lines of development separate
 and is used to enhance projects that are already working or in use. A branch allows you to work on that development to test it 
 while keeping the current code untouched.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you are making changes to the current version and you introduce an error, you can easily convert back to 
+the original configuration without going through process of pulling it down especially if its a large file.
