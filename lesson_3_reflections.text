@@ -15,7 +15,12 @@ to the project but will have to push the updates to the github account. A branch
 and is used to enhance projects that are already working or in use. A branch allows you to work on that development to test it 
 while keeping the current code untouched.
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+4.What is the benefit of having a copy of the last known state of the remote stored locally?
 
 If you are making changes to the current version and you introduce an error, you can easily convert back to 
 the original configuration without going through process of pulling it down especially if its a large file.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could collaborate by working in the same room and verbally communicating changes. Git or Github would be easier, 
+verbally communicating change would be hard to keep track of.
