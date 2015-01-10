@@ -29,5 +29,6 @@ verbally communicating change would be hard to keep track of.
 approach have?
 
 You would want to make changes in a separate branch when you are working to enhance a working file in one way or another.
+
 By making the changes in the separate branch you leave the master working in its current firm until the enhancement has 
 been implemented and verified to work properly.
