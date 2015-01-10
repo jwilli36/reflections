@@ -24,3 +24,10 @@ the original configuration without going through process of pulling it down espe
 
 You could collaborate by working in the same room and verbally communicating changes. Git or Github would be easier, 
 verbally communicating change would be hard to keep track of.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each 
+approach have?
+
+You would want to make changes in a separate branch when you are working to enhance a working file in one way or another.
+By making the changes in the separate branch you leave the master working in its current firm until the enhancement has 
+been implemented and verified to work properly.
